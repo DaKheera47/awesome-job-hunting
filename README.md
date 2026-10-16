@@ -11,6 +11,7 @@ A curated list of tools and resources that help people find jobs and manage thei
 
 - [JobOps](https://github.com/DaKheera47/job-ops) - Self-hosted job search and application tracker that searches multiple boards, helps tailor CVs, and tracks replies. Useful for managing the search through to follow-up while submitting applications yourself.
 - [freehire](https://freehire.me) - Open-source job search engine that aggregates postings from job boards and company ATS boards into one deduplicated catalogue, then derives structured filters from the posting text — seniority, remote policy, skills, visa sponsorship, relocation, security clearance — so hard eligibility can be filtered on instead of read out of each description. Search, company data and the documented REST API work without an account. Useful for ruling out ineligible roles before applying, and as a free job data API; it is also an OJCP provider, so agents can reach the same catalogue through that standard.
+- [Multi Job Board Scraper](https://apify.com/flash_scraper/multi-jobboard-scraper) - One hosted search across LinkedIn, Indeed and Glassdoor (via the open-source JobSpy engine, with fixes) plus The Muse, merged into one table; on a daily schedule its only-new-jobs mode delivers just the postings earlier runs did not see. Paid per result on Apify.
 
 ## Standards and protocols
 
