@@ -11,6 +11,7 @@ A curated list of tools and resources that help people find jobs and manage thei
 
 - [JobOps](https://github.com/DaKheera47/job-ops) - Self-hosted job search and application tracker that searches multiple boards, helps tailor CVs, and tracks replies. Useful for managing the search through to follow-up while submitting applications yourself.
 - [freehire](https://freehire.me) - Open-source job search engine that aggregates postings from job boards and company ATS boards into one deduplicated catalogue, then derives structured filters from the posting text — seniority, remote policy, skills, visa sponsorship, relocation, security clearance — so hard eligibility can be filtered on instead of read out of each description. Search, company data and the documented REST API work without an account. Useful for ruling out ineligible roles before applying, and as a free job data API; it is also an OJCP provider, so agents can reach the same catalogue through that standard.
+- [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Shows the plain text an applicant tracking system extracts from a PDF resume and compares it with a job description: missing keywords and which requirements the resume backs up. Free, no account, English only, PDF up to 2 MB, 5 checks a day.
 
 ## Standards and protocols
 
