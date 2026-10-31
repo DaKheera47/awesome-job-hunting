@@ -11,6 +11,7 @@ A curated list of tools and resources that help people find jobs and manage thei
 
 - [JobOps](https://github.com/DaKheera47/job-ops) - Self-hosted job search and application tracker that searches multiple boards, helps tailor CVs, and tracks replies. Useful for managing the search through to follow-up while submitting applications yourself.
 - [freehire](https://freehire.me) - Open-source job search engine that aggregates postings from job boards and company ATS boards into one deduplicated catalogue, then derives structured filters from the posting text — seniority, remote policy, skills, visa sponsorship, relocation, security clearance — so hard eligibility can be filtered on instead of read out of each description. Search, company data and the documented REST API work without an account. Useful for ruling out ineligible roles before applying, and as a free job data API; it is also an OJCP provider, so agents can reach the same catalogue through that standard.
+- [NeverApply](https://neverapply.co) - Hosted AI job-search agent that matches jobs to your resume, tailors resumes and cover letters, and applies on employer career sites, with an approve-each-job mode and a receipt for every submission. It also exposes a hosted MCP server, so Claude, Cursor and other MCP clients can search jobs and apply with your approval. Free plan includes 10 applications; Pro and Max are $29 and $49 a month; requires an account; closed source.
 
 ## Standards and protocols
 
