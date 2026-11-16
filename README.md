@@ -6,6 +6,7 @@ A curated list of tools and resources that help people find jobs and manage thei
 
 - [Job search and application management](#job-search-and-application-management)
 - [Standards and protocols](#standards-and-protocols)
+- [Resume and interview preparation](#resume-and-interview-preparation)
 
 ## Job search and application management
 
@@ -15,6 +16,10 @@ A curated list of tools and resources that help people find jobs and manage thei
 ## Standards and protocols
 
 - [OJCP (Open Job Context Protocol)](https://ojcp.dev) - An open standard for agent-consumable job data, built on the Model Context Protocol. Lets AI agents discover jobs, read employer context, and submit applications through one uniform interface instead of scraping each site, with optional verifiable agent identity so providers can tell a real agent from a scraper. Useful for developers building job-search agents and for job boards or employers that want their listings reachable by them.
+
+## Resume and interview preparation
+
+- [ResumeRadar](https://automatethebs.github.io/resume-radar/) - Free, browser-only ATS resume checker that scores a resume against a pasted job posting and shows top keyword gaps, parser warnings, and prioritized fixes. No account or upload is needed and resume text stays in the browser; the optional Pro report adds every gap and fix for a one-time $9, with no subscription. Useful for checking and tailoring a resume before applying.
 
 ## Contributing
 
