@@ -11,6 +11,7 @@ A curated list of tools and resources that help people find jobs and manage thei
 
 - [JobOps](https://github.com/DaKheera47/job-ops) - Self-hosted job search and application tracker that searches multiple boards, helps tailor CVs, and tracks replies. Useful for managing the search through to follow-up while submitting applications yourself.
 - [freehire](https://freehire.me) - Open-source job search engine that aggregates postings from job boards and company ATS boards into one deduplicated catalogue, then derives structured filters from the posting text — seniority, remote policy, skills, visa sponsorship, relocation, security clearance — so hard eligibility can be filtered on instead of read out of each description. Search, company data and the documented REST API work without an account. Useful for ruling out ineligible roles before applying, and as a free job data API; it is also an OJCP provider, so agents can reach the same catalogue through that standard.
+- [Oaki AI](https://www.oaki.io/?utm_source=awesome-job-hunting&utm_medium=github) - Finds jobs on company career sites that fit your resume and prepares each application: a resume tailored to the job and answers to the form's questions. A free Chrome extension fills the form for you to review and submit, and the higher plans can submit within daily limits. Paid, from $10 a week.
 
 ## Standards and protocols
 
